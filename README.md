@@ -15,4 +15,6 @@
 - 파일명은 calculate로 통일한다. 
 - const & let을 사용한다.
 - arrow function을 이용한다.
+
+
   
