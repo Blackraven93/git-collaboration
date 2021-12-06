@@ -19,7 +19,6 @@ const _div = (a, b) => {
 }
 console.log(_div(2,2));
 
-// 거절
 // Divide (나눗셈)
 const _div = (a, b) => {
   return a / b;
