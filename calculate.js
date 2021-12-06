@@ -1,9 +1,9 @@
-let Add = (a, b) => a + b;
-let Subtract = (a ,b) => a - b;
-let Multiplay = (a, b) => a * b;
-let Divide = (a, b) => a / b;
+let add = (a, b) => a + b;
+let subtract = (a ,b) => a - b;
+let multiplay = (a, b) => a * b;
+let divide = (a, b) => a / b;
 
-console.log(Add(100,5));
-console.log(Subtract(230,86));
-console.log(Multiplay(15,19));
-console.log(Divide(10,2));
+console.log(add(100,5));
+console.log(subtract(230,86));
+console.log(multiplay(15,19));
+console.log(divide(10,2));
