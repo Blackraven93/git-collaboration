@@ -3,7 +3,7 @@ let Subtract = (a ,b) => { return a - b; };
 let Multiplay = (a, b) => { return a * b; };
 let Divide = (a, b) => { return a / b; };
 
-console.log(Add(100,5));
-console.log(Subtract(230,86));
-console.log(Multiplay(15,19));
-console.log(Divide(10,2));
+console.log(Number(Add(100,5)));
+console.log(Number(Subtract(230,86)));
+console.log(Number(Multiplay(15,19)));
+console.log(Number(Divide(10,2)));
