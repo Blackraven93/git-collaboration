@@ -1,19 +1,21 @@
 
-function add(a, b) {
-    var test1= a + b;
+function add(a,b) {
+    const test1= a + b;
     return test1; 
 }
-function subtract(a ,b) {
-    var test2= a - b;
+
+function subtract(a,b) {
+    const test2= a - b;
     return test2; 
 }
-function multiplay (a, b) {
-    var test3= a * b;
+function multiplay (a,b) {
+    const test3= a * b;
     return test3;
 }
+
 function divide(a, b) {
-    var test4 = a/b;
-    return test4
+    const test4 = a / b;
+    return test4;
 }
 
 
