@@ -24,4 +24,3 @@ const _div = (a, b) => {
   return a / b;
 }
 console.log(_div(2,2));
-// 주석추가
